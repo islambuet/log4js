@@ -1,1 +1,2 @@
-# log4js
+#log4js
+npm install log4js
